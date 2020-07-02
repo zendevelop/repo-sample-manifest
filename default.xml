@@ -4,5 +4,5 @@
     <remote name="origin" fetch="https://github.com" />
     <default remote="origin" revision="master" />
 
-    <project name="base" path="zendevelop/repo-sample-base" />
+    <project name="zendevelop/repo-sample-base" path="base" />
 </manifest>
