@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github"
+  <remote name="origin"
     fetch="https://github.com"/>
     
   <default name="github"
-	  fetch="https://github.com"
-	  revision="master"
-	  remote="origin"/>
+	  fetch="https://github.com"/>
 
   <project path="base" name="zendevelop/repo-sample-base"/>
 </manifest>
