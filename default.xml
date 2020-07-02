@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <remote name="origin" fetch="git@github.com" />
+    <remote name="origin" fetch="ssh://git@github.com:zendevelop" />
     <default remote="origin" revision="master" />
 
-    <project name="zendevelop/repo-sample-base" path="base" />
-	<project name="zendevelop/repo-sample-stream" path="stream" />
-	<project name="zendevelop/repo-sample-host" path="host" />
-	<project name="zendevelop/repo-sample-bsp" path="bsp" />
+    <project name="repo-sample-base" path="base" />
+	<project name="repo-sample-stream" path="stream" />
+	<project name="repo-sample-host" path="host" />
+	<project name="repo-sample-bsp" path="bsp" />
 </manifest>
