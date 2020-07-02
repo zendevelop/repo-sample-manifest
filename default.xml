@@ -5,4 +5,7 @@
     <default remote="origin" revision="master" />
 
     <project name="zendevelop/repo-sample-base" path="base" />
+	<project name="zendevelop/repo-sample-stream" path="stream" />
+	<project name="zendevelop/repo-sample-host" path="host" />
+	<project name="zendevelop/repo-sample-bsp" path="bsp" />
 </manifest>
