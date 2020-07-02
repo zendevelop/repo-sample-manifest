@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <remote name="origin" fetch="ssh://git@github.com:zendevelop" />
+    <remote name="origin" fetch="ssh://git@github.com/zendevelop" />
     <default remote="origin" revision="master" />
 
     <project name="repo-sample-base" path="base" />
