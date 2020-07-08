@@ -2,10 +2,12 @@
 <manifest>
 
     <remote name="origin" fetch="ssh://git@github.com/zendevelop" />
+	<remote name="origin" fetch="ssh://git@gitee.com:zendevelop" />
     <default remote="origin" revision="master" />
 
     <project name="repo-sample-base" path="base" />
 	<project name="repo-sample-stream" path="stream" />
 	<project name="repo-sample-host" path="host" />
 	<project name="repo-sample-bsp" path="bsp" />
+	<project name="bspc_extensions" path="extensions" />
 </manifest>
