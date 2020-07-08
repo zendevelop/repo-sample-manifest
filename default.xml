@@ -2,7 +2,7 @@
 <manifest>
 
     <remote name="origin" fetch="ssh://git@github.com/zendevelop" />
-	<remote name="gitee" fetch="ssh://git@gitee.com:zendevelop" />
+	<remote name="gitee" fetch="ssh://git@gitee.com/zendevelop" />
     <default remote="origin" revision="master" />
 
     <project name="repo-sample-base" path="base" />
