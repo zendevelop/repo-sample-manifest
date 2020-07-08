@@ -9,5 +9,5 @@
 	<project name="repo-sample-stream" path="stream" />
 	<project name="repo-sample-host" path="host" />
 	<project name="repo-sample-bsp" path="bsp" />
-	<project name="bspc_extensions" path="extensions" remote="gitee" />
+	<project name="bpsc_extensions" path="extensions" remote="gitee" />
 </manifest>
