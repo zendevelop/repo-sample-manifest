@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="github" alias="origin" fetch="ssh://git@github.com/zendevelop" />
+	<remote name="gitee" alias="origin"	fetch="ssh://git@gitee.com/zendevelop" />
+    <default remote="origin" revision="master" />
+
+    <project name="repo-sample-base" path="base" revision="dev"/>
+	<project name="repo-sample-stream" path="stream" revision="dev" />
+	<project name="repo-sample-host" path="host" revision="dev"/>
+	<project name="repo-sample-bsp" path="bsp" revision="dev" />
+	<project name="bpsc_extensions" path="extensions" remote="gitee" revision="dev"/>
+</manifest>
