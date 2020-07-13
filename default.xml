@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <remote name="github" alias="origin" fetch="ssh://git@github.com/zendevelop" />
+    <remote name="origin" alias="origin" fetch="ssh://git@github.com/zendevelop" />
 	<remote name="gitee" alias="origin"	fetch="ssh://git@gitee.com/zendevelop" />
     <default remote="origin" revision="master" />
 
