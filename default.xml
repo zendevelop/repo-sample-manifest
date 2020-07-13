@@ -5,9 +5,9 @@
 	<remote name="gitee" alias="origin"	fetch="ssh://git@gitee.com/zendevelop" />
     <default remote="origin" revision="master" />
 
-    <project name="repo-sample-base" path="base" />
-	<project name="repo-sample-stream" path="stream" />
-	<project name="repo-sample-host" path="host" />
-	<project name="repo-sample-bsp" path="bsp" />
-	<project name="bpsc_extensions" path="extensions" remote="gitee" />
+    <project name="repo-sample-base" path="base" revision="master" />
+	<project name="repo-sample-stream" path="stream" revision="master" />
+	<project name="repo-sample-host" path="host" revision="master" />
+	<project name="repo-sample-bsp" path="bsp" revision="master" />
+	<project name="bpsc_extensions" path="extensions" remote="gitee" revision="master" />
 </manifest>
